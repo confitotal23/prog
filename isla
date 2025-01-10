@@ -13,6 +13,16 @@
         "imageScale": "",
         "stations":
             [
+              {
+      "name": "prog 1",
+      "info": "2025",
+      "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+      "url": "https://terabox.com/s/1osYhJbVBDeA8aCwbXQ6fFA",
+      "userAgent": "PlusMediaPlayer/0.0.9",
+      "embed": "",
+      "isHost": "true",
+      "online": "true"
+    },
                 {
                 "name": "prog 1",
                 "info":"",
