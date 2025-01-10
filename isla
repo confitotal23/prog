@@ -1,0 +1,36 @@
+{
+"name": "LIDLT temp8",
+"author": "anonimo",
+"url": "xxxxxxxxxxxxxxxx",
+"image": "xxxxxxxxxxxxxxxxxxxxxx",
+"info": "",
+"groups":
+    [
+        {
+        "name": "LIDLT temp8",
+        "info":"",
+        "image": "xxxxxxxxxxxxxxxxxxxxxxxx",
+        "imageScale": "",
+        "stations":
+            [
+                {
+                "name": "prog 1",
+                "info":"",
+                "image": "xxxxxxxxxxxxxxxxx",
+                "url":"https://terabox.com/s/1osYhJbVBDeA8aCwbXQ6fFA",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "prog 2",
+                "info":"xxxxxxxxxxxxxxx",
+                "image": "xxxxxxxxxxxxxxxxxxxxxxxxx",
+                "url":"xxxxxxxxxxxxxxxxxxxxxx",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                }
+	        ]
+	    },
+        {
