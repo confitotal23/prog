@@ -17,7 +17,7 @@
                 "name": "programa 1",
                 "info":"SI",
                 "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url":"https://e.pcloud.link/publink/show?code=XZxjvwZBMNIf0F0C5SnvYKFioFu2JHu0zeV",
+                "url":"https://e.pcloud.link/publink/show?code=XZPB5KZTr10hSSx4tbxgDkQ3ERWOuEpp3lV",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -26,7 +26,25 @@
                 "name": "programa 2",
                 "info":"SI",
                 "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
-                "url":"https://e.pcloud.link/publink/show?code=XZQGyKZY7QMLWWqVobNhex5u3J0F4X4NiqV",
+                "url":"https://e.pcloud.link/publink/show?code=XZwB5KZYK22x2WkUsJMaJWp6fTYyjequCXV",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "programa 3",
+                "info":"NO",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url":"",
+		        "userAgent": "PlusMediaPlayer/0.0.9",
+                "isHost":"true",
+                "online":"true"
+                },
+                {
+                "name": "programa 4",
+                "info":"NO",
+                "image": "https://i.postimg.cc/VLJnZYBf/laisla2.jpg",
+                "url":"",
 		        "userAgent": "PlusMediaPlayer/0.0.9",
                 "isHost":"true",
                 "online":"true"
@@ -35,3 +53,4 @@
         }
     ]
 }
+
