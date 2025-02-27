@@ -132,6 +132,16 @@
                 },
                 {
                 "name": "programa 13",
+                "image": "https://img-place.com/hp6nbkqx7d98_t.jpg",
+                "url": "https://filemoon.to/d/hp6nbkqx7d98/LIDLT_temp_8_Programa_13",
+                "info": "SI",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                }, 
+                {
+                "name": "programa 14",
                 "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
                 "url": "",
                 "info": "NO",
@@ -139,7 +149,17 @@
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "import": false
-                }              
+                },
+                {
+                "name": "programa 15",
+                "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+                "url": "",
+                "info": "NO",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                }
             ]
         }
     ]
