@@ -159,6 +159,26 @@
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "import": false
+                },
+                {
+                "name": "programa 16",
+                "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+                "url": "",
+                "info": "NO",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+				{
+                "name": "programa 17",
+                "image": "https://i.postimg.cc/bw20rzsC/laisla1.jpg",
+                "url": "",
+                "info": "NO",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
                 }
             ]
         }
