@@ -179,6 +179,26 @@
                 "online": "true",
                 "userAgent": "PlusMediaPlayer/0.0.9",
                 "import": false
+                },
+		{
+                "name": "Debate final 1",
+                "image": "https://img-place.com/hbyijzmmtg6b_t.jpg",
+                "url": "https://filemoon.to/d/hbyijzmmtg6b/Debate_final_parte_1",
+                "info": "SI",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
+                },
+		{
+                "name": "Debate final 2",
+                "image": "https://img-place.com/ow9tzs088dr4_t.jpg",
+                "url": "https://filemoon.to/d/ow9tzs088dr4/Debate_final_parte_2",
+                "info": "SI",
+                "isHost": "true",
+                "online": "true",
+                "userAgent": "PlusMediaPlayer/0.0.9",
+                "import": false
                 }
             ]
         }
